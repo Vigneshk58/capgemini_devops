@@ -1,3 +1,5 @@
 class A {
 void Hello11()
+void Hello12()
+void mul()
 }
