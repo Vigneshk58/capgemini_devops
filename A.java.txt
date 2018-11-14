@@ -1,4 +1,6 @@
 class A {
 void Hello11()
 void sub()
+int x=4;
+int y=4;
 }
