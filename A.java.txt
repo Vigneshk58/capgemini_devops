@@ -1,6 +1,7 @@
 class A {
 void Hello11()
 <<<<<<< HEAD
+<<<<<<< HEAD
 void Hello12()
 void mul()
 int y=100;
@@ -9,4 +10,9 @@ void sub()
 int x=4;
 int y=4;
 >>>>>>> 561c90e4a77bb73b5a2ab094d2777919c17d9523
+=======
+void sub()
+int x=4;
+int y=4;
+>>>>>>> c8d3c50ea1736fdad9258728367bb2e89ae25059
 }
