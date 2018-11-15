@@ -1,4 +1,4 @@
-class A {
+class A1 {
 void Hello11()
 void Hello12()
 void mul()
